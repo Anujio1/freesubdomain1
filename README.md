@@ -3,7 +3,7 @@ Code ini adalah Code/Script Pembuat Subdomain Otomatis Menggunakan Bot di Telegr
 
 **One-Line Installing on Fresh VPS Ubuntu**
 ```shell script
-sudo apt-get update && sudo apt-get install -y screen python3 python3-pip && git clone https://github.com/powergunn/freesubdomain.git && cd freesubdomain && pip3 install -r requirements.txt
+sudo apt-get update && sudo apt-get install -y screen python3 python3-pip && git clone https://github.com/Anujio1/freesubdomain.git && cd freesubdomain && pip3 install -r requirements.txt
 ```
 1. Buat Bot Telegram Menggunakan [BotFather](https://t.me/BotFather)
 ```shell script
