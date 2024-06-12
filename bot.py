@@ -5,12 +5,12 @@ from CloudFlare import CloudFlare
 import random
 import string
 
-# Ganti dengan token bot Telegram Anda
-TELEGRAM_TOKEN = '6526322533:AAHTBbDJM8yPRdPk2SaAm-Xk4dY3pUWY1pM'
+# Generate your bot token form @botfather telegram bot
+TELEGRAM_TOKEN = '7375862170:AAHQADUg6dF8SoyJwEuvdoRaumWnfKu-euE'
 
 # Ganti dengan API Key Cloudflare Anda
-CLOUDFLARE_API_KEY = 'CLOUDFLARE_API_KEY'
-CLOUDFLARE_EMAIL = 'CLOUDFLARE_EMAIL'
+CLOUDFLARE_API_KEY = 'uwd0b3ZhFxGyM6qn542uIF078Kk00WiDxYMWMawD'
+CLOUDFLARE_EMAIL = 'Ayushnom@gmail.com'
 
 # Dictionary untuk menyimpan alamat IP server pengguna
 user_ips = {}
